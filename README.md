@@ -11,6 +11,9 @@ The morning routine is designed to be an hour long set of physical and mental ex
 </details>
 
 ## [Link to live Heroku-hosted page](https://sleepy-meadow-14655.herokuapp.com/signin)
+Test Login:
+email: admin@pocketguru.com
+password: admin
 
 ### Getting Started
 ```
